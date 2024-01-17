@@ -1,3 +1,4 @@
+This project made by KNK for own purpose. If you find any mistake or error please let me know it. 
 
 1) roles of users
     -Admin (
@@ -35,7 +36,7 @@
     -Logs of operations
         -all actions must be saved in data
         ID | When | Who | Department | What happened
-        
+
 3) tamplates (html) (all pages must login for using)
     -login page 
         1) username -----
