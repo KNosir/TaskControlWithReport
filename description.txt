@@ -12,9 +12,12 @@ Name of project Task control with report
     -tasks(date of create, name of task, description, who will do, when he/she must do, when it's done )
 
 3) tamplates (html) (all pages must login for using)
-    -login page
+    -login page 
+        1) username -----
+        2) password -----
     -user page
-        -actual task 
+        -actual task with filter
+        -Old tasks with filter 
         -task page
         -report page 
     -manager page
@@ -22,5 +25,5 @@ Name of project Task control with report
         -create task
         -report task with department
         -report task with user
+    -admin page
 
-4)
